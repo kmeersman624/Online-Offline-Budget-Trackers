@@ -3,6 +3,8 @@
   ## Description
   The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
+  Link to deployed application: https://secure-eyrie-61403.herokuapp.com/
+  
   ![GitHub repo size](https://img.shields.io/github/repo-size/kmeerman624/Online-Offline-Budget-Trackers)
 
   ## Table of Contents
@@ -39,9 +41,7 @@
 
   ## Tests
 
-  ![image of test](./assets/images/readme1.PNG)
-
-  ![image of test](./assets/images/readme2.PNG)
+  ![image of test](./public/icons/budget.PNG)
 
   ## Questions
   * katie4682@yahoo.com
